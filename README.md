@@ -28,3 +28,9 @@ Una vez ingresados todos los nombres, presionar "Sortear amigo" para el sorteo d
 
 **Creado por**
 Angélica Iribarren
+
+**Muestras**
+
+![Pantalla de inicio al ingresar un nombre](https://github.com/user-attachments/assets/b4cc3344-1a3c-4eaa-a21f-bad1324d7ded)
+
+![Resultado final del juego una vez realizado el sorteo](https://github.com/user-attachments/assets/7d8e9846-bafb-4875-9b21-b197cac9f599)
